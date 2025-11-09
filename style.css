@@ -189,5 +189,40 @@ margin-top: 30px;
 }
 
 .padding15 {
-    padding: 100px 0;
+    padding: 15px 0;
 }
+
+.margin-top-45 {
+    margin-top: 45px;
+}
+
+.w-130 {
+    width: 130px;
+}
+
+.border-top-droit {
+    border-top-right-radius: 20px;
+}
+.border-top-gauche {
+    border-top-left-radius: 20px;
+}
+
+.border-bottom-droit {
+    border-bottom-right-radius: 20px;
+}
+
+.border-bottom-gauche {
+    border-bottom-left-radius: 20px;
+}
+
+.margin-bottom-30 {
+    margin-bottom: 30px;
+}
+ .bg-black {
+    background-color: #292F36;
+ }
+
+ .text-color-w {
+    text-decoration: white;
+ }
+ 
